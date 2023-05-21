@@ -16,7 +16,7 @@
                 pytorch 1.10.2
                 注意spm涉及python2
                 环境较为复杂
-                ![image](https://github.com/SE-AI/TRP/assets/42207844/00f18397-7a39-4b0c-a194-6f745ab9b0d4)
+               
 
             
 
