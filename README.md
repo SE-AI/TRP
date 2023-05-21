@@ -1,25 +1,23 @@
 # TRP
 ## 主要环境
-各类环境经供参考，其他很多版本应该也可以。
-        预处理：jieba 0.42.1
-                opencv-python 3.4.2.16
-                onnxruntime 1.7.0
-        文字特征提取：
-                bert-serving-client 1.10.0
-                scipy 1.5.2
-                numpy 1.18.5
-                gensim 3.8.0
-        图像特征提取
-                jdk 1.8
-                opencv-python 3.4.2.16
-                scikit-image 0.17.2
-                pytorch 1.10.2
-                注意spm涉及python2
-                环境较为复杂
-               
-
-            
-
+    各类环境经供参考，其他很多版本应该也可以。
+    预处理：jieba 0.42.1
+            opencv-python 3.4.2.16
+            onnxruntime 1.7.0
+    文字特征提取：
+            bert-serving-client 1.10.0
+            scipy 1.5.2
+            numpy 1.18.5
+            gensim 3.8.0
+    图像特征提取
+            jdk 1.8
+            opencv-python 3.4.2.16
+            scikit-image 0.17.2
+            pytorch 1.10.2
+            注意spm涉及python2 主要包括
+            Python 2.7
+            scikit-image 1.19.0
+    特征融合和排序依赖的环境已被上文包括
 
 ## 文件目录
     │  .gitignore
